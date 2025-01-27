@@ -1,0 +1,9 @@
+C:\Users\bukre\Documents\MCUXpressoIDE_11.10.0_3148\workspace\FinalProject_SEH500\drivers/fsl_clock.h:1045:20:CLOCK_SetSimSafeDivs	4	static
+C:\Users\bukre\Documents\MCUXpressoIDE_11.10.0_3148\workspace\FinalProject_SEH500\drivers/fsl_clock.h:1428:20:CLOCK_SetXtal0Freq	16	static
+C:\Users\bukre\Documents\MCUXpressoIDE_11.10.0_3148\workspace\FinalProject_SEH500\drivers/fsl_smc.h:256:20:SMC_SetPowerModeProtection	16	static
+C:\Users\bukre\Documents\MCUXpressoIDE_11.10.0_3148\workspace\FinalProject_SEH500\drivers/fsl_smc.h:275:33:SMC_GetPowerModeState	16	static
+../board/clock_config.c:72:13:CLOCK_CONFIG_SetFllExtRefDiv	16	static
+../board/clock_config.c:80:6:BOARD_InitBootClocks	8	static
+../board/clock_config.c:184:6:BOARD_BootClockHSRUN	8	static
+../board/clock_config.c:293:6:BOARD_BootClockVLPR	8	static
+../board/clock_config.c:411:6:BOARD_BootClockRUN	8	static
