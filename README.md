@@ -1,4 +1,4 @@
-🚀 Embedded Motion Sensor System
+🚀 # Embedded Motion Sensor System
 Overview
 This project implements an I2C-based accelerometer system using an NXP MK66F18 microcontroller to detect real-time motion and orientation changes. It features interrupt-driven event handling, real-time I2C communication, and LED feedback mechanisms to signal motion variations. Designed for motion tracking, gesture recognition, and autonomous navigation, this embedded system demonstrates proficiency in sensor fusion, low-level firmware, and real-time embedded design.
 
